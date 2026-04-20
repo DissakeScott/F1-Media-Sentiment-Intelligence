@@ -1,7 +1,9 @@
 # 🏎️ F1 Media Intelligence Dashboard
 **Sentiment Analysis of Formula 1 News using DistilBERT & Power BI**
 
-<img width="771" height="439" alt="Capture d’écran du 2026-04-20 08-35-57" src="https://github.com/user-attachments/assets/b24d42be-0576-4841-aa84-6ebaa674d6eb" />  <img width="768" height="435" alt="Capture d’écran du 2026-04-20 08-41-32" src="https://github.com/user-attachments/assets/9dffc98e-9ccd-4d73-9d76-6f9cc0c8bdd6" />
+<img width="771" height="439" alt="Capture d’écran du 2026-04-20 08-35-57" src="https://github.com/user-attachments/assets/b24d42be-0576-4841-aa84-6ebaa674d6eb" /> 
+<p></p>
+<img width="768" height="435" alt="Capture d’écran du 2026-04-20 08-41-32" src="https://github.com/user-attachments/assets/9dffc98e-9ccd-4d73-9d76-6f9cc0c8bdd6" />
 
 
 
@@ -28,5 +30,5 @@ This project is an end-to-end Data & AI pipeline designed to track the "media re
 2. Run the script `notebooks/f1_scraper_ai.py`.
 3. Import the generated CSV into Power BI.
 
-<img width="771" height="439" alt="Capture d’écran du 2026-04-20 08-35-57" src="https://github.com/user-attachments/assets/b24d42be-0576-4841-aa84-6ebaa674d6eb" />
+
 
