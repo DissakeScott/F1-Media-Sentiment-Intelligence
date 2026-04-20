@@ -1,0 +1,15 @@
+# Data Manipulation
+pandas
+numpy
+
+# API & Web Scraping
+newsapi-python
+praw
+
+# AI & Machine Learning
+transformers
+torch
+scipy
+
+# Utilities
+python-dotenv
