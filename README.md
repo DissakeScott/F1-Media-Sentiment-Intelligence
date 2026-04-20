@@ -22,3 +22,6 @@ This project is an end-to-end Data & AI pipeline designed to track the "media re
 1. Get your API key from [newsapi.org](https://newsapi.org).
 2. Run the script `notebooks/f1_scraper_ai.py`.
 3. Import the generated CSV into Power BI.
+
+<img width="771" height="439" alt="Capture d’écran du 2026-04-20 08-35-57" src="https://github.com/user-attachments/assets/b24d42be-0576-4841-aa84-6ebaa674d6eb" />
+
